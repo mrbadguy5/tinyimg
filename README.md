@@ -1,5 +1,5 @@
 # tinypic-and-imgur
-Enter your search keyword to download files from tinypic or imgur and saves them in a folder.
+Enter your search keyword to download all related images from tinypic or imgur and save them in a folder.
 
 Examples :
 
